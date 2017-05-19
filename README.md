@@ -1,6 +1,6 @@
 # <center>QRcode</center>
 ## 微信
-<center>![](https://github.com/caocmh/icon/blob/master/qrcode/weixincaocmh/cli_300px.png)</center>
+![](https://github.com/caocmh/icon/blob/master/qrcode/weixincaocmh/cli_300px.png)
 ## 博客
 ![](https://github.com/caocmh/icon/blob/master/qrcode/weixincaocmh/cli_300px.png)
 ## 微信公共号
