@@ -1,4 +1,4 @@
-# <center>QRcode </center>
+# QRcode
 ## 微信
 ![](https://github.com/caocmh/icon/blob/master/qrcode/weixincaocmh/cli_300px.png)
 ## 博客
