@@ -8,6 +8,6 @@
 
 > ![](/qrcode/weixingonggon/cli_300px.png)
 
-> [Blog](/qrcode/github/cli_300px.png)
+> [Blog](http://cz8023.cn/)
 
 > ![](/qrcode/github/cli_300px.png)
